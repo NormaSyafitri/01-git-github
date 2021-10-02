@@ -6,7 +6,7 @@ Pada pertemuan kali ini kita akan mempelajari tata cara penggunaan Github
 2. Melakukan Konfigurasi
     Konfigurasi ini diperlukan agar Git mengetahui pengaksesnya melalui user name dan user email.
 
-dell@DESKTOP-4LDQTDN MINGW64 ~
+        dell@DESKTOP-4LDQTDN MINGW64 ~
         $ pwd
         /c/Users/dell
 
@@ -19,9 +19,12 @@ dell@DESKTOP-4LDQTDN MINGW64 ~
         dell@DESKTOP-4LDQTDN MINGW64 ~
         $ 
 
+
+
     Cara mengecek apakah konfigurasinya berjalan
 
-dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik/01-git-github/01-git-github (main)
+
+        dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik/01-git-github/01-git-github (main)
         $ git config --list
         diff.astextplain.textconv=astextplain
         filter.lfs.clean=git-lfs clean -- %f
@@ -51,7 +54,7 @@ dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik/01-git-github/01-git-github (main)
 4. Membuat repository kosong di github baik secara private maupun public
 5. Melakukan Clone repository kosong tersebut ke komputer lokal dengan menggunakan git bash
 
-dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
+        dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
         $ cd 01-git-github
 
         dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik/01-git-github
@@ -64,7 +67,7 @@ dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
         Receiving objects: 100% (3/3), done.
 
 6. Merubah repo master menjadi main
-dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
+        dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
         $ cd 01-git-github
             
         dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik/01-git-github (master)
