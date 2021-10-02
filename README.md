@@ -67,6 +67,7 @@ Pada pertemuan kali ini kita akan mempelajari tata cara penggunaan Github
         Receiving objects: 100% (3/3), done.
 
 6. Merubah repo master menjadi main
+
         dell@DESKTOP-4LDQTDN MINGW64 ~/mdplpraktik
         $ cd 01-git-github
             
