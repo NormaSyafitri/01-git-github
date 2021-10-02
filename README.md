@@ -4,6 +4,7 @@ Langkah Langkah Praktik Github Pertemuan Pertama
 Pada pertemuan kali ini kita akan mempelajari tata cara penggunaan Github
 1. Melakukan Installasi Git
 2. Melakukan Konfigurasi
+
     Konfigurasi ini diperlukan agar Git mengetahui pengaksesnya melalui user name dan user email.
 
         dell@DESKTOP-4LDQTDN MINGW64 ~
@@ -78,6 +79,9 @@ Pada pertemuan kali ini kita akan mempelajari tata cara penggunaan Github
         $
 
 7. Mengelola repo sendiri
+
     Semua manipulasi konten dilakukan di komputer lokal dan hasilnya akan di-push ke remote repo di GitHub.
     Selanjutnya tinggal push ke repo github
+
+
 
